@@ -2,10 +2,10 @@ const Nav = (props) => {
   return (
     <nav className="main-nav">
       <ul className="list-type">
-        <li>{props.first}</li>
-        <li>{props.second}</li>
-        <li>{props.third}</li>
-        <li>{props.fourth}</li>
+        <li><a href="/">{props.first}</a></li>
+        <li><a href="/">{props.second}</a></li>
+        <li><a href="/">{props.third}</a></li>
+        <li><a href="/">{props.fourth}</a></li>
       </ul>
     </nav>
   );
