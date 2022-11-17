@@ -1,0 +1,11 @@
+.grid-container {
+  display: inline-grid;
+  padding: 10px;
+}
+
+.card {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 300px;
+
+}

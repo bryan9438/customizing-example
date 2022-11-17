@@ -1,6 +1,6 @@
 function Heading (props) {
   return (
-    <h1>{props.greet}, {props.firstName} {props.lastName}</h1>
+    <h1>Task: Add three Card elements</h1>
   );
 };
 

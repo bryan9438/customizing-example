@@ -1,7 +1,7 @@
 function Footer (){
   return (
     <div className="copyright">
-      <p>Made with love by Myself</p>
+      <p>&#9415;2022 Bryan Wong All Rights Reserved</p>
     </div>
   );
 };
